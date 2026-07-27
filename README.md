@@ -32,6 +32,9 @@ AI4I 2020 Predictive Maintenance Dataset (10,000 records)
 | Precision           | 0.83     |
 | Recall              | 0.81     |
 
+<img width="833" height="730" alt="Screenshot 2026-07-27 200034" src="https://github.com/user-attachments/assets/7250ddbe-4e44-48b0-b3a1-905bcac6110b" />
+
+
 ##  Features
 - Real-time sensor input prediction
 - SHAP Explainability (Why the machine is at risk)
